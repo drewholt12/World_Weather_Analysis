@@ -1,6 +1,8 @@
 # Adding config.py file
 config.py
-/weatherdata
+/weather_data
+VacationPy.ipynb
+WeatherPy.ipynb
 
 #Adding non essential files
 API_practice.ipynb
